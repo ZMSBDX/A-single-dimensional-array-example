@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674499665 source:c:\users\muham\desktop\udemy\bir boyutta dizi uygulamalari\diziler(7.12)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
